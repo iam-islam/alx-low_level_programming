@@ -1,5 +1,5 @@
-#iclude < stdio.h >
-#iclude < unistd.h >
+#include <stdio.h>
+#include <unistd.h>
 /**
  * main - C
  *
